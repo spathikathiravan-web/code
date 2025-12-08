@@ -3,6 +3,7 @@
 <title>my design</title>
 </head>
 <body>
-<h1>VCET</h1>
+<h1>velalar college of engineering and technology</h1>
 </body>
 </html>
+
